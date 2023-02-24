@@ -17,9 +17,6 @@ function randomDice(){
      } else {
         document.getElementById("header").innerHTML = "Draw!";
      }
-    
-
-    
 }
 randomDice();
 
